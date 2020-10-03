@@ -10,7 +10,7 @@ Jack off all trades, master of none *yet*.
 - Privacy
 - A.I.
 - Machine learning.
-- Brain interface machines.
+- Brain computer interfaces.
 <!--
 **Im-Sam/Im-Sam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
