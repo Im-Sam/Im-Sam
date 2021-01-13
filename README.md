@@ -1,9 +1,8 @@
 ### Hi there 👋
 As my username would suggest, I'm Sam, and this is my Github profile.
-Jack off all trades, master of none *yet*.
 
 - 🔭 I’m currently working on getting my degree at TU Dublin, I'm studying cyber security! 😄
-- 🌱 I’m currently learning Java, I have previous experience in JavaScript, LUA, c#, VB.net and of course HMTL and CSS.
+- 🌱 I’m currently learning Java, I have previous experience in JavaScript, LUA, c#, python and of course HMTL and CSS.
 - 📫 How to reach me: Feel free to email me at samam.magee@gmail.com, or message me on discord - Sam#5065
 
 **Computing related Interests**
