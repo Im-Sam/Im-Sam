@@ -9,7 +9,7 @@ As my username would suggest, I'm Sam, and this is my Github profile.
 - Privacy
 - A.I.
 - Machine learning.
-- Brain computer interfaces.
+- History of computer science.
 <!--
 **Im-Sam/Im-Sam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
