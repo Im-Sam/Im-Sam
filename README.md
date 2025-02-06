@@ -1,14 +1,15 @@
 ### Hi there 👋
 What a discovery!! Yet another github profile, WOW AH-MAZIN
 
-- 🔭 I’m currently working on getting my degree at TU Dublin, I'm studying cyber security! 😄
-- 📫 How to reach me: Feel free to email me at samam.magee@gmail.com, or message me on discord - Sam#5065
+- Cyber Security grad
+- How to reach me: Feel free to email me at samam.magee@gmail.com, or message me on discord - Sam#5065
 
 **Computing related Interests**
-- System programming
+- Embedded system programming
+- AI / ML
+- Reverse Engineering
 - CTFs
-- Computer Hardware
-- History of computer science
+  
 <!--
 **Im-Sam/Im-Sam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
